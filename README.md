@@ -6,3 +6,6 @@ https://drive.google.com/drive/folders/153la_JXr2Rlvx2dXyUqMMgpxDxjq8Fqm?usp=sha
 
 AssociationRulesDataset:
 https://drive.google.com/drive/folders/1lXqiua3vzAQwMhaShDhJDpA4oHqbwEAv?usp=sharing
+
+Final Presentation
+https://youtu.be/3Fx7eajVNno
